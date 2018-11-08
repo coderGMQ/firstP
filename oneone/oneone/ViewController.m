@@ -19,6 +19,9 @@
   
 }
 
+- (void)initUI {
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
